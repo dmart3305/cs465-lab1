@@ -113,6 +113,11 @@ body {
   max-width: 100%;
   border-radius: 12px;
   object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.about-image img:hover {
+    transform: scale(1.05);
 }
 
 .about-text {
@@ -162,8 +167,7 @@ body {
 }
 
 .project-card a {
-  text-decoration: none;
-  color: #111;
+  color: #111111;
   font-weight: 500;
 }
 
@@ -209,7 +213,6 @@ body {
 }
 
 .footer-links a {
-  text-decoration: none;
   color: #111;
 }
 
