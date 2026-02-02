@@ -3,7 +3,7 @@ Overall Lab1 went well. Building the index first with the class names made it ea
 Mimiced websites:
 https://triniteemedia.com/  
 https://www.hellerchronicles.com/ 
-refrences:
+Refrences:
 https://www.w3schools.com/html/default.asp
 https://www.w3schools.com/howto/howto_website_create_portfolio.asp
 https://www.w3schools.com/cssref/index.php 
