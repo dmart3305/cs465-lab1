@@ -42,7 +42,7 @@ body {
 /*Hero*/
 .hero {
   height: 80vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.40),rgba(0, 0, 0, 0.40)), url("../html/assets/heroback.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.40),rgba(0, 0, 0, 0.40)), url("../assets/heroback.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
